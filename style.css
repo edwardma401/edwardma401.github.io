@@ -4,6 +4,7 @@ title {
 
 h1 {
     color: aquamarine;
+    text-align: center;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
 
 img {
     box-shadow: cornflowerblue;
+    align-items: center;
 }
 
 section {

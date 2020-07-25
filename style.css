@@ -1,5 +1,5 @@
 h1 {
-    color: darkgreen ;
+    color: darkmagenta ;
     text-align: center;
 }
 
@@ -8,6 +8,7 @@ h2 {
 }
 
 img {
+
     box-shadow: darkblue;
     align-items: center;
 }

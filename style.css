@@ -17,6 +17,14 @@ section {
     background-color: bisque;
 }
 
-p {
+.red {
     font-size: larger;
+    color: red;
+    background-color: rosybrown;
+}
+
+#darkgreen {
+    font-size: x-large;
+    color: slateblue;
+    background-color: thistle;
 }
